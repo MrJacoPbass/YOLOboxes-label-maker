@@ -1,6 +1,6 @@
 /*
 Compilation instructions: "make SHELL=cmd" -> saves the executable in the bin/Debug folder.
-                          F*ing sucks that I can't build using nob tbh.
+                         Next, try to build using nob tbh, but windows i guess.
 
 Commands:
     S: [S]ave current state.
